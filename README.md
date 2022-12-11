@@ -21,3 +21,6 @@ To do:
 - Run the app
 
 ![Screen Shot 2022-12-10 at 7 54 49 PM](https://user-images.githubusercontent.com/93154330/206885676-1587f2e3-3cf8-471e-8a8e-b1a6a10a64e6.png)
+
+
+Project Environment: Utilized Theia (Python runtime to create and launch Dash applications), an open-source IDE platform, that can be run on the cloud.
